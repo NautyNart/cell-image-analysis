@@ -1,0 +1,19 @@
+[{"stream_name":"stderr","time":6.541840126,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":6.541930466,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":7.305803447,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":7.305842291,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":9.229851228,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":12.497907645,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":12.498325674,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.499790145,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.500384142,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.501475529,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.501951735,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.502591542,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.50331252,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.503960765,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.504747555,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.505484041,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.506111412,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":12.506759473,"data":"[NbConvertApp] Writing 473055 bytes to __results__.html\n"}
+]
