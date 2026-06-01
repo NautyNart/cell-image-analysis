@@ -1,0 +1,32 @@
+# ── Core data science ────────────────────────────────────────────────────────
+numpy
+scipy
+pandas
+openpyxl
+
+# ── Visualisation ────────────────────────────────────────────────────────────
+matplotlib
+seaborn
+plotly
+
+# ── Image processing ─────────────────────────────────────────────────────────
+Pillow
+scikit-image
+
+# ── Machine learning ─────────────────────────────────────────────────────────
+scikit-learn
+umap-learn
+
+# ── Deep learning ────────────────────────────────────────────────────────────
+torch
+torchvision
+timm
+transformers
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+tqdm
+gdown
+
+# ── Shiny app ────────────────────────────────────────────────────────────────
+shiny
+shinywidgets
